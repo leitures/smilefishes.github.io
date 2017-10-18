@@ -3,11 +3,11 @@
   <title>给你小松果</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.leitures.com/blog/"/>
+  <link href="http://www.leitures.com/"/>
   <updated>2017-10-18T09:57:46.344Z</updated>
-  <id>http://www.leitures.com/blog/</id>
+  <id>http://www.leitures.com/</id>
   
   <author>
     <name>Lei Liu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>HelloBlog</title>
-    <link href="http://www.leitures.com/blog/2017/10/18/HelloBlog/"/>
-    <id>http://www.leitures.com/blog/2017/10/18/HelloBlog/</id>
+    <link href="http://www.leitures.com/2017/10/18/HelloBlog/"/>
+    <id>http://www.leitures.com/2017/10/18/HelloBlog/</id>
     <published>2017-10-18T06:25:55.000Z</published>
     <updated>2017-10-18T09:57:46.344Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.leitures.com/blog/2017/10/18/hello-world/"/>
-    <id>http://www.leitures.com/blog/2017/10/18/hello-world/</id>
+    <link href="http://www.leitures.com/2017/10/18/hello-world/"/>
+    <id>http://www.leitures.com/2017/10/18/hello-world/</id>
     <published>2017-10-18T06:09:38.170Z</published>
     <updated>2017-10-18T09:58:08.076Z</updated>
     
